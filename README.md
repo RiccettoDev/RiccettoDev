@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
 - 🌱 Experiência de 2 anos como Analista de Softwer;
-- 💻 Estudando novas tecnologias e tentando me aprimorar, buscando novas oportunidades;
+- 💻 Estudando novas tecnologias e buscando me aprimorar;
 
   ##
 
