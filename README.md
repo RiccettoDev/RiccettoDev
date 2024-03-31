@@ -6,7 +6,7 @@
 - 🌱 Experiência de 3 anos como Analista de Softwer;
 - 💻 Visite meu portifólio: https://portfolio-ten-lime-67.vercel.app/;
 - 📂 Linkedin: https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/;
-- 📭 contato: riccettodev@gmail.com
+- 📭 Contato: riccettodev@gmail.com
 
   ##
 
