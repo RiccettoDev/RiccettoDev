@@ -5,6 +5,7 @@
 - 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
 - 🌱 Experiência de 3 anos como Analista de Softwer;
 - 💻 Visite meu portifólio: https://portfolio-ten-lime-67.vercel.app/;
+- 📂 Linkedin: https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/;
 
   ##
 
