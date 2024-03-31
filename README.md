@@ -4,7 +4,7 @@
   
 - 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
 - 🌱 Experiência de 3 anos como Analista de Softwer;
-- 💻 Estudando novas tecnologias e buscando me aprimorar;
+- 💻 Visite meu portifólio: https://portfolio-ten-lime-67.vercel.app/;
 
   ##
 
