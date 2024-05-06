@@ -3,7 +3,7 @@
 - 😎 Ao longo dos anos, tive o privilégio de contribuir para uma variedade de projetos empolgantes, desde o desenvolvimento de aplicativos móveis até a criação de sistemas web de grande escala. Minhas habilidades técnicas abrangem o desenvolvimento front-end utilizando HTML, CSS e JavaScript, bem como frameworks como React.js e Angular. No backend, tenho experiência em Node.js e Java com SpringBoot. Além disso, possuo experiência em desenvolvimento Mobile utilizando React Native, e em bancos de dados SQL e NoSQL, além de práticas avançadas de controle de versão com Git e automação de testes.
   
 - 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
-- 🌱 Experiência de 3 anos como Analista de Softwer;
+- 🌱 Experiência como Analista de Softwer;
 - 💻 Visite meu portifólio: <a href="https://portfolio-ten-lime-67.vercel.app/" target="_blanck">https://portfolio-ten-lime-67.vercel.app/</a>;
 - 📂 Linkedin: <a href="https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/" target="_blanck">https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/</a>;
 - 📭 Contato: riccettodev@gmail.com;
