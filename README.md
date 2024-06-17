@@ -1,6 +1,6 @@
 ### Olá! Eu sou Eduardo Riccetto 👋
 
-- 😎 Ao longo dos anos, tive o privilégio de contribuir para uma variedade de projetos empolgantes, desde o desenvolvimento de aplicativos móveis até a criação de sistemas web de grande escala. Minhas habilidades técnicas abrangem o desenvolvimento front-end utilizando HTML, CSS e JavaScript, bem como frameworks como React.js e Angular. No backend, tenho experiência em Node.js e Java com SpringBoot. Além disso, possuo experiência em desenvolvimento Mobile utilizando React Native, e em bancos de dados SQL e NoSQL, além de práticas avançadas de controle de versão com Git e Automação de Testes.
+- 😎 Ao longo dos anos, tive o privilégio de contribuir para uma variedade de projetos empolgantes, desde o desenvolvimento de aplicativos móveis até a criação de sistemas web de grande escala. Minhas habilidades técnicas abrangem o desenvolvimento front-end utilizando HTML, CSS e JavaScript, bem como frameworks como React.js e Angular. No backend, tenho experiência em Node.js e Java com SpringBoot. Além disso, possuo experiência em desenvolvimento Mobile utilizando React Native, e em bancos de dados SQL e NoSQL, além de práticas avançadas de controle de versão com Git e Automação de testes.
   
 - 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
 - 🌱 Experiência como Analista de Softwer;
