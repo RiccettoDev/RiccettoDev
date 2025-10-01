@@ -1,11 +1,15 @@
 ### Olá! Eu sou Eduardo Riccetto 👋
 
-- 😎 Ao longo dos anos, tive o privilégio de contribuir para uma variedade de projetos empolgantes, desde o desenvolvimento de aplicativos móveis até a criação de sistemas web de grande escala. Minhas habilidades técnicas abrangem o desenvolvimento front-end utilizando HTML, CSS e JavaScript, bem como frameworks como React.js e Angular. No backend, tenho experiência em Node.js e Java com SpringBoot. Além disso, possuo experiência em desenvolvimento Mobile utilizando React Native, e em bancos de dados SQL e NoSQL, além de práticas avançadas de controle de versão com Git e Automação de Testes.
-  
-- 🎓 Formado em Segurança da Informação pela FATEC - AMERICANA - SP;  
-- 🌱 Experiência como Analista de Softwer;
-- 💻 Visite meu portifólio: <a href="https://portfolio-ten-lime-67.vercel.app/" target="_blanck">https://portfolio-ten-lime-67.vercel.app/</a>;
-- 📂 Linkedin: <a href="https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/" target="_blanck">https://www.linkedin.com/in/eduardo-peixoto-riccetto-094a53a2/</a>;
+- 😎 Full Stack Developer com experiência em desenvolvimento de aplicações web e integrações com APIs externas. Minha trajetória começou na área comercial, mas rapidamente encontrei minha verdadeira paixão em Tecnologia, consolidada durante a graduação em Segurança da Informação.
+
+Como desenvolvedor Full Stack, atualmente trabalho com Next.js (front-end) e NestJS (back-end), criando APIs REST com PostgreSQL, MongoDB e Prisma ORM. Já integrei sistemas com Google Maps API, processadoras de pagamento, serviços de email e OpenAI, além de implementar CI/CD, Docker e deploy em cloud (AWS/GCP). Também tenho experiência com React Native para desenvolvimento mobile.
+
+Experiência com trabalhos em equipe e metodologias ágeis (Scrum/Kanban), sempre buscando soluções eficientes e inovadoras. Fora do trabalho, me mantenho atualizado com novas tecnologias, frameworks e boas práticas de desenvolvimento.
+
+- 🌱 Full Stack Software Developer | JavaScript & TypeScript | React | Next.js | Node.js | NestJS | PostgreSQL & MongoDB | Cloud & DevOps;
+- 🎓 Graduated in Information Security from FATEC - AMERICANA - SP;  
+- 💻 Visite meu portifólio: <a href="https://riccettodev.ritthec.com/" target="_blanck">riccettodev.ritthec.com</a>;
+- 📂 Linkedin: <a href="https://www.linkedin.com/in/eduardo-riccetto/" target="_blanck">eduardo-riccetto</a>;
 - 📭 Contato: riccettodev@gmail.com;
 
   ##
