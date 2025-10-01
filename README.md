@@ -1,4 +1,4 @@
-### Olá! Eu sou Eduardo Riccetto 👋
+### Hello! I'm Eduardo Riccetto 👋
 
 - 😎 Full Stack Developer com experiência em desenvolvimento de aplicações web e integrações com APIs externas. Minha trajetória começou na área comercial, mas rapidamente encontrei minha verdadeira paixão em Tecnologia, consolidada durante a graduação em Segurança da Informação.
 
