@@ -34,14 +34,8 @@ I am experienced in working in teams and applying agile methodologies (Scrum/Kan
   <!-- Next.js -->
   <img align="center" alt="Edu-Next" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   
-  <!-- NestJS -->
-  <img align="center" alt="Edu-Nest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  
   <!-- React -->
   <img align="center" alt="Edu-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-  <!-- React Native (usa o mesmo logo do React) -->
-  <img align="center" alt="Edu-ReactNative" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
   <!-- PostgreSQL -->
   <img align="center" alt="Edu-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
