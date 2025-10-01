@@ -1,10 +1,10 @@
 ### Hello! I'm Eduardo Riccetto 👋
 
-- 😎 Full Stack Developer com experiência em desenvolvimento de aplicações web e integrações com APIs externas. Minha trajetória começou na área comercial, mas rapidamente encontrei minha verdadeira paixão em Tecnologia, consolidada durante a graduação em Segurança da Informação.
+- 😎 Full Stack Developer with experience in building web applications and integrating external APIs. My career began in the commercial area, but I quickly discovered my true passion for technology, which was solidified during my degree in Information Security.
 
-Como desenvolvedor Full Stack, atualmente trabalho com Next.js (front-end) e NestJS (back-end), criando APIs REST com PostgreSQL, MongoDB e Prisma ORM. Já integrei sistemas com Google Maps API, processadoras de pagamento, serviços de email e OpenAI, além de implementar CI/CD, Docker e deploy em cloud (AWS/GCP). Também tenho experiência com React Native para desenvolvimento mobile.
+As a Full Stack Developer, I currently work with Next.js (front-end) and NestJS (back-end), creating REST APIs with PostgreSQL, MongoDB, and Prisma ORM. I have integrated systems with Google Maps API, payment processors, email services, and OpenAI, in addition to implementing CI/CD, Docker, and cloud deployments (AWS/GCP). I also have experience with React Native for mobile development.
 
-Experiência com trabalhos em equipe e metodologias ágeis (Scrum/Kanban), sempre buscando soluções eficientes e inovadoras. Fora do trabalho, me mantenho atualizado com novas tecnologias, frameworks e boas práticas de desenvolvimento.
+I am experienced in working in teams and applying agile methodologies (Scrum/Kanban), always striving to deliver efficient and innovative solutions. Outside of work, I stay up to date with new technologies, frameworks, and best development practices, aiming to contribute to challenging and impactful projects.
 
 - 🌱 Full Stack Software Developer | JavaScript & TypeScript | React | Next.js | Node.js | NestJS | PostgreSQL & MongoDB | Cloud & DevOps;
 - 🎓 Graduated in Information Security from FATEC - AMERICANA - SP;  
