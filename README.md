@@ -1,6 +1,6 @@
 ### Hello! I'm Eduardo Riccetto 👋
 
-- 😎 Full Stack Developer with experience in building web applications and integrating external APIs. My career began in the commercial area, but I quickly discovered my true passion for technology, which was solidified during my degree in Information Security.
+😎 Full Stack Developer with experience in building web applications and integrating external APIs. My career began in the commercial area, but I quickly discovered my true passion for technology, which was solidified during my degree in Information Security.
 
 As a Full Stack Developer, I currently work with Next.js (front-end) and NestJS (back-end), creating REST APIs with PostgreSQL, MongoDB, and Prisma ORM. I have integrated systems with Google Maps API, payment processors, email services, and OpenAI, in addition to implementing CI/CD, Docker, and cloud deployments (AWS/GCP). I also have experience with React Native for mobile development.
 
