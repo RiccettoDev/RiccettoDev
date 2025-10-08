@@ -8,9 +8,9 @@ I am experienced in working in teams and applying agile methodologies (Scrum/Kan
 
 - 🌱 Full Stack Software Developer | JavaScript & TypeScript | React | Next.js | Node.js | NestJS | PostgreSQL & MongoDB | Cloud & DevOps;
 - 🎓 Graduated in Information Security from FATEC - AMERICANA - SP;  
-- 💻 Visite meu portifólio: <a href="https://riccettodev.ritthec.com/" target="_blanck">riccettodev.ritthec.com</a>;
+- 💻 Portfolio: <a href="https://riccettodev.ritthec.com/" target="_blanck">riccettodev.ritthec.com</a>;
 - 📂 Linkedin: <a href="https://www.linkedin.com/in/eduardo-riccetto/" target="_blanck">eduardo-riccetto</a>;
-- 📭 Contato: riccettodev@gmail.com;
+- 📭 Contact: riccettodev@gmail.com;
 
   ##
 
